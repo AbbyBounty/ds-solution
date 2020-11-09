@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\dell 2408\source\repos\7_august\string_stack\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  stack.cpp
+  Generating Code...
+  string_stack.vcxproj -> C:\Users\Dell 2408\source\repos\7_august\Debug\string_stack.exe

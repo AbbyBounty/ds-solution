@@ -1,0 +1,6 @@
+﻿  main.cpp
+  stack.cpp
+c:\users\dell 2408\source\repos\7_august\char_stack\stack.cpp(43): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\dell 2408\source\repos\7_august\char_stack\stack.cpp(43): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  Char_Stack.vcxproj -> C:\Users\Dell 2408\source\repos\7_august\Debug\Char_Stack.exe

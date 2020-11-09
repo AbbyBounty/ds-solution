@@ -1,0 +1,7 @@
+﻿  main.cpp
+  node.cpp
+  queue.cpp
+c:\users\dell 2408\source\repos\11_august\queue_cll\queue.cpp(40): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\dell 2408\source\repos\11_august\queue_cll\queue.cpp(40): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  Queue_CLL.vcxproj -> C:\Users\Dell 2408\source\repos\11_August\Debug\Queue_CLL.exe
